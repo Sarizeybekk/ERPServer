@@ -1,0 +1,1 @@
+Implemented modern C# libraries such as MediatR for in-application communication mechanisms, Entity Framework Core for data access operations, Automapper for object-to-object mapping, and SmartEnum for safer and more flexible enum usage.
